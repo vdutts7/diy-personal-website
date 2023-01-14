@@ -12,8 +12,8 @@ Built using:
 
 ## How to use
 
-Clone the repo in terminal. 
-### `npm start`
+Clone the repo in a local directory you want project to be housed in. 
+### `git clone https://github.com/vdutts7/diy-modern-portfolio-website/`
 
 Install necessary packages. 
 ### `npm install`
