@@ -10,8 +10,15 @@ Built using:
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
 
-In the /personal-portfolio, you can run:
+## How to use
 
+Clone the repo in terminal. 
+### `npm start`
+
+Install necessary packages. 
+### `npm install`
+
+Start the app.
 ### `npm start`
 
 Runs the app in the development mode.\
